@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,wBAA6B,CAC7B,iBACF","file":"main.6ad26ba8.chunk.css","sourcesContent":["body {\n  background-color: yellowgreen;\n  text-align: center;\n}\n"]}

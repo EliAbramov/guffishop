@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/guffishop/static/css/main.6ad26ba8.chunk.css",
+    "main.js": "/guffishop/static/js/main.5cf9ffbe.chunk.js",
+    "main.js.map": "/guffishop/static/js/main.5cf9ffbe.chunk.js.map",
+    "runtime-main.js": "/guffishop/static/js/runtime-main.349073b9.js",
+    "runtime-main.js.map": "/guffishop/static/js/runtime-main.349073b9.js.map",
+    "static/js/2.c493fba7.chunk.js": "/guffishop/static/js/2.c493fba7.chunk.js",
+    "static/js/2.c493fba7.chunk.js.map": "/guffishop/static/js/2.c493fba7.chunk.js.map",
+    "index.html": "/guffishop/index.html",
+    "static/css/main.6ad26ba8.chunk.css.map": "/guffishop/static/css/main.6ad26ba8.chunk.css.map",
+    "static/js/2.c493fba7.chunk.js.LICENSE.txt": "/guffishop/static/js/2.c493fba7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.349073b9.js",
+    "static/js/2.c493fba7.chunk.js",
+    "static/css/main.6ad26ba8.chunk.css",
+    "static/js/main.5cf9ffbe.chunk.js"
+  ]
+}
